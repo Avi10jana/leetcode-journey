@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -19,4 +20,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Math
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
