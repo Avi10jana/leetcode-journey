@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Avi10jana/leetcode-journey/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Avi10jana/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Avi10jana/leetcode-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Avi10jana/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Avi10jana/leetcode-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Avi10jana/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Avi10jana/leetcode-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Avi10jana/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Avi10jana/leetcode-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Avi10jana/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avi10jana/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Avi10jana/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Avi10jana/leetcode-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Avi10jana/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Avi10jana/leetcode-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
