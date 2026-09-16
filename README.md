@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Avi10jana/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Avi10jana/leetcode-journey/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Avi10jana/leetcode-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Avi10jana/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Avi10jana/leetcode-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Avi10jana/leetcode-journey/tree/master/2029-stone-game-ix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Avi10jana/leetcode-journey/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Avi10jana/leetcode-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Avi10jana/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Avi10jana/leetcode-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Avi10jana/leetcode-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Avi10jana/leetcode-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Avi10jana/leetcode-journey/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Avi10jana/leetcode-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Avi10jana/leetcode-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
