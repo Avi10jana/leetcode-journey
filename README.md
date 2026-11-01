@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Avi10jana/leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Avi10jana/leetcode-journey/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Avi10jana/leetcode-journey/tree/master/1254-number-of-closed-islands) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Avi10jana/leetcode-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Avi10jana/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Avi10jana/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Avi10jana/leetcode-journey/tree/master/1401-circle-and-rectangle-overlapping) |
